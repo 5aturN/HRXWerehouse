@@ -1,0 +1,12 @@
+fastapi==0.115.*
+uvicorn[standard]
+sqlalchemy[asyncio]>=2.0
+aiosqlite
+alembic
+pydantic>=2.7
+pydantic-settings
+qrcode[pil]
+openpyxl
+httpx
+python-dotenv
+waitress
